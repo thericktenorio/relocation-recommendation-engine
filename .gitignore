@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env
+
+raw_json/
+data/raw/
+data/features/
+streamlit_debug_app.py
+old_streamlit.py

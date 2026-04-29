@@ -1,0 +1,241 @@
+job_id,region_id,industry,role_family,raw_job_title,career_stage,annual_salary,office_mode,job_fit_score,employer,latitude,longitude
+5680354079,SAN_DIEGO_CA,tech,software,Software Engineer,senior,173720,on-site,0.7,Na Oiwi Kane,32.726967,-117.164709
+5680357016,SAN_DIEGO_CA,tech,software,Software Engineer,senior,173625,on-site,0.7,SAIC,32.726967,-117.164709
+5680359568,SAN_DIEGO_CA,tech,software,Senior Software Engineer,senior,222365,on-site,0.7,Na Oiwi Kane,32.726967,-117.164709
+5680364446,SAN_DIEGO_CA,tech,software,Senior Software Engineer,senior,207603,on-site,0.7,Redhorse Corporation,32.726967,-117.164709
+5701912299,SAN_DIEGO_CA,tech,software,Software Engineer,senior,164457,on-site,0.7,Na Oiwi Kane,32.773978,-117.136851
+5701912310,SAN_DIEGO_CA,tech,software,Software Engineer,senior,164457,on-site,0.7,Na Oiwi Kane,32.773978,-117.136851
+5674667344,SAN_DIEGO_CA,tech,software,Software Engineer,senior,152148,on-site,0.7,Insight Global,32.773978,-117.136851
+5671270269,SAN_DIEGO_CA,tech,software,Software Engineer,senior,153468,on-site,0.7,SAIC,32.773978,-117.136851
+5596232321,SAN_DIEGO_CA,tech,software,Software Engineer,senior,169061,on-site,0.7,Leidos,32.773978,-117.136851
+5536880827,SAN_DIEGO_CA,tech,software,Software Engineer,senior,159721,on-site,0.7,Leidos,32.773978,-117.136851
+5568772555,SAN_DIEGO_CA,tech,software,Software Engineer,senior,159530,on-site,0.7,Insight Global,32.773978,-117.136851
+5704809222,SAN_DIEGO_CA,tech,software,Software Engineer / Principal Software Engineer - Java,senior,304081,on-site,0.7,Northrop Grumman,32.773978,-117.136851
+5680355391,SAN_DIEGO_CA,tech,software,Senior Software Engineer - WMS,senior,207974,on-site,0.7,Kforce Technology Staffing,32.726967,-117.164709
+5701912285,SAN_DIEGO_CA,tech,software,Senior Software Engineer,senior,209281,on-site,0.7,Na Oiwi Kane,32.773978,-117.136851
+5704029762,SAN_DIEGO_CA,tech,software,Remote Software Engineer,senior,136702,on-site,0.7,Insight Global,32.773978,-117.136851
+5681718703,SAN_DIEGO_CA,tech,software,"Specialist, Software Engineering",mid,71877,on-site,0.7,L3Harris,32.773978,-117.136851
+5668012728,SAN_DIEGO_CA,tech,software,Lead Software Engineer,senior,163371,on-site,0.7,Leidos,32.773978,-117.136851
+5665793441,SAN_DIEGO_CA,tech,software,Sr. Software Engineer,senior,159964,on-site,0.7,Leidos,32.773978,-117.136851
+5704809203,SAN_DIEGO_CA,tech,software,Embedded Software Engineer,senior,173214,on-site,0.7,Northrop Grumman,32.773978,-117.136851
+5681728071,SAN_DIEGO_CA,tech,software,Software Engineering Intern,mid,73655,on-site,0.7,Teradata,32.773978,-117.136851
+5703016423,SAN_DIEGO_CA,tech,data,Sr. Clinical Data Analyst,mid,88657,on-site,0.7,Actalent,32.773978,-117.136851
+5703112315,SAN_DIEGO_CA,tech,data,Data Analyst,mid,97636,on-site,0.7,Bering Straits Native Corporation,32.657722,-117.161122
+5702309538,SAN_DIEGO_CA,tech,data,Data Analyst,mid,94688,on-site,0.7,ASML,32.726967,-117.164709
+5690394198,SAN_DIEGO_CA,tech,data,Data Analyst II,senior,120000,on-site,0.7,XSITE,32.764911,-117.19957
+5696349617,SAN_DIEGO_CA,tech,data,Data Analyst Intern,entry,40761,on-site,0.7,Howden,32.726967,-117.164709
+5662192855,SAN_DIEGO_CA,tech,data,Reporting and Data Analyst,entry,56160,on-site,0.7,Premier Business Support,32.7211,-117.16431
+5687057624,SAN_DIEGO_CA,tech,data,"Data Analyst II, Data Office",mid,86555,on-site,0.7,Family Health Centers of San Diego,32.726967,-117.164709
+5692781699,SAN_DIEGO_CA,tech,data,Commodity Pricing & Data Analyst,mid,76464,on-site,0.7,Calpine,32.7211,-117.16431
+5695469108,SAN_DIEGO_CA,tech,data,"Data Analyst, Clinical Studies",mid,73250,on-site,0.7,Catalent,32.726967,-117.164709
+5678878735,SAN_DIEGO_CA,tech,data,"Business Data Analyst, Senior",senior,133074,on-site,0.7,University of Southern California,32.726967,-117.164709
+5683267766,SAN_DIEGO_CA,tech,data,"Analyst, Static Data Analyst",entry,67626,on-site,0.7,BGC Partners,32.726967,-117.164709
+5679346738,SAN_DIEGO_CA,tech,data,"Senior Data Analyst, Marketing - Remote",senior,233390,on-site,0.7,Spring Health,32.726967,-117.164709
+5589818204,SAN_DIEGO_CA,tech,data,Credentialing Data Analyst - SHP Health Services - Telecommuter - Day Shift - Full Time,mid,78035,on-site,0.7,Sharp HealthCare,32.773978,-117.136851
+5681944187,SAN_DIEGO_CA,tech,data,Data Entry Analyst - SSC,entry,56915,on-site,0.7,Event Network,32.726967,-117.164709
+5675032348,SAN_DIEGO_CA,tech,data,Background & Data Intelligence Analyst,entry,52271,on-site,0.7,Berkshire Hathaway Homestate Companies,32.726967,-117.164709
+5658889866,SAN_DIEGO_CA,tech,data,Data Governance Analyst II,senior,111510,on-site,0.7,ICW Group,32.726967,-117.164709
+5587801958,SAN_DIEGO_CA,tech,data,Credentialing Data Analyst - SHP Health Services - Telecommuter - Day Shift - Full Time,mid,73025,on-site,0.7,Sharp Healthcare,32.726967,-117.164709
+5590882334,SAN_DIEGO_CA,tech,data,Credentialing Data Analyst - SHP Health Services - Telecommuter - Day Shift - Full Time,entry,40910,on-site,0.7,Sharp HealthCare,32.726967,-117.164709
+5619787064,SAN_DIEGO_CA,finance,accountant,$XXX/45min Paid Market Research Study for CIO in the Finance Sector,mid,91172,on-site,0.7,Ivy Exec,32.726967,-117.164709
+5656795592,SAN_DIEGO_CA,tech,other,Operations Analyst (Multiple Levels),mid,79563,on-site,0.7,Noblis,32.773978,-117.136851
+5692679858,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Psych - $1,638 per week in San Diego, CA",mid,85176,on-site,0.7,TravelNurseSource,32.773978,-117.136851
+5692716790,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Cardiovascular Operating Room - $3,232 per week in San Diego, CA",senior,168064,on-site,0.7,TravelNurseSource,32.76704,-117.02252
+5696300579,SAN_DIEGO_CA,healthcare,nurse,Correctional Registered Nurse - $890 per week,entry,46280,on-site,0.7,Care Career,32.726967,-117.164709
+5692674510,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $2,120 per week in National City, CA",senior,110240,on-site,0.7,TravelNurseSource,32.67798,-117.09828
+5692713452,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $2,088 per week in National City, CA",senior,108576,on-site,0.7,TravelNurseSource,32.67798,-117.09828
+5692712722,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Cardiovascular Operating Room - $3,160 per week in San Diego, CA",senior,164320,on-site,0.7,TravelNurseSource,32.773978,-117.136851
+5692680172,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Cardiovascular Operating Room - $3,003 to $3,193 per week in San Diego, CA",senior,161096,on-site,0.7,TravelNurseSource,32.773978,-117.136851
+5692698786,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Cardiovascular Operating Room - $2,966 to $3,155 per week in La Mesa, CA",senior,159146,on-site,0.7,TravelNurseSource,32.76704,-117.02252
+5699953182,SAN_DIEGO_CA,healthcare,nurse,"Travel Nurse RN - Cardiovascular Operating Room - $3,069 per week in La Mesa, CA",senior,159588,on-site,0.7,TravelNurseSource,32.76704,-117.02252
+5703053374,SAN_DIEGO_CA,healthcare,nurse,staff - Registered Nurse - Correctional - $53-66 per hour,senior,123760,on-site,0.7,CoreCivic,32.715,-117.156
+5703055534,SAN_DIEGO_CA,healthcare,nurse,staff - Registered Nurse - Correctional - $53-66 per hour,senior,123760,on-site,0.7,CoreCivic,32.65956,-117.15948
+5638432789,SAN_DIEGO_CA,healthcare,nurse,staff - Registered Nurse - Correctional - $53-66 per hour,senior,123760,on-site,0.7,CoreCivic,32.65956,-117.15948
+5638345211,SAN_DIEGO_CA,healthcare,nurse,staff - Registered Nurse - Correctional - $53-66 per hour,senior,123760,on-site,0.7,CoreCivic,32.726967,-117.164709
+5693898394,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $3,045 per week",senior,158340,on-site,0.7,Supplemental Health Care,32.726967,-117.164709
+5685078898,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $2,898 per week",senior,150696,on-site,0.7,Supplemental Health Care,32.726967,-117.164709
+5654654372,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $3,020 per week",senior,157040,on-site,0.7,Core Medical Group,32.777055,-117.024655
+5654654412,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $3,563 per week",senior,185276,on-site,0.7,Solomon Page,32.777055,-117.024655
+5693898469,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $2,262 per week",senior,117624,on-site,0.7,Healthcare Support,32.726967,-117.164709
+5684699619,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $3,277 per week",senior,170404,on-site,0.7,TNAA TotalMed RN,32.726967,-117.164709
+5654834025,SAN_DIEGO_CA,healthcare,nurse,"Travel CVOR Registered Nurse - $3,167 per week",senior,164684,on-site,0.7,Triage Staffing,32.726967,-117.164709
+5687950700,SAN_DIEGO_CA,finance,accountant,Project Accountant,mid,75361,on-site,0.7,Kimley-Horn,32.773978,-117.136851
+5694955384,SAN_DIEGO_CA,finance,accountant,Staff Accountant,mid,77641,on-site,0.7,Robert Half,32.773978,-117.136851
+5696104141,SAN_DIEGO_CA,finance,accountant,Sr. Accountant,mid,99870,on-site,0.7,Robert Half,32.773978,-117.136851
+5696104171,SAN_DIEGO_CA,finance,accountant,Senior Accountant,mid,87096,on-site,0.7,Robert Half,32.773978,-117.136851
+5681725554,SAN_DIEGO_CA,finance,accountant,Staff Accountant,entry,66591,on-site,0.7,Robert Half,32.773978,-117.136851
+5694955380,SAN_DIEGO_CA,finance,accountant,Staff Accountant - Construction,mid,77684,on-site,0.7,Robert Half,32.773978,-117.136851
+5597155056,SAN_DIEGO_CA,finance,accountant,Accountant,mid,81120,on-site,0.7,Ace Careers Website,32.726967,-117.164709
+5078326796,SAN_DIEGO_CA,finance,accountant,Accountant,entry,56841,on-site,0.7,SmartSearch,32.7211,-117.16431
+5689698055,SAN_DIEGO_CA,finance,accountant,Staff Accountant / Senior Accountant,mid,75005,on-site,0.7,Sapient Bioanalytics,32.726967,-117.164709
+5698600947,SAN_DIEGO_CA,finance,accountant,Tax Accountant,mid,93505,on-site,0.7,Peregrine Team,32.726967,-117.164709
+5656522827,SAN_DIEGO_CA,finance,accountant,Staff Accountant,entry,59750,on-site,0.7,TEAM,32.773978,-117.136851
+5643359493,SAN_DIEGO_CA,finance,accountant,Project Accountant,mid,87360,on-site,0.7,BKF,32.726967,-117.164709
+5676466807,SAN_DIEGO_CA,finance,accountant,Associate Accountant,mid,82451,on-site,0.7,"SurflineWavetrak, Inc.",32.726967,-117.164709
+5699838370,SAN_DIEGO_CA,finance,accountant,Jr. Accountant,entry,60362,on-site,0.7,Hankey Group External,32.799796,-117.13705
+5697200145,SAN_DIEGO_CA,finance,accountant,Financial Accountant,mid,78017,on-site,0.7,San Diego Unified School District,32.726967,-117.164709
+5452282902,SAN_DIEGO_CA,finance,accountant,Senior Accountant,entry,59868,on-site,0.7,Axos Bank,32.726967,-117.164709
+5692834859,SAN_DIEGO_CA,finance,accountant,Senior Accountant,mid,72237,on-site,0.7,Now CFO,32.726967,-117.164709
+5620780595,SAN_DIEGO_CA,finance,accountant,Staff Accountant,mid,72900,on-site,0.7,Veterans Village of San Diego,32.773978,-117.136851
+5662870925,SAN_DIEGO_CA,finance,accountant,Corporate Accountant,entry,66560,on-site,0.7,CONAM Careers,32.799796,-117.13705
+5704315356,SAN_DIEGO_CA,finance,accountant,Staff Accountant,mid,71760,on-site,0.7,Singleton Schreiber Llp,32.773978,-117.136851
+5680356805,DALLAS_TX,tech,software,Software Engineer,senior,125602,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5680359647,DALLAS_TX,tech,software,Software Engineer,senior,136372,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5698635965,DALLAS_TX,tech,software,Software Engineer,senior,187717,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5699539677,DALLAS_TX,tech,software,Software Engineer,senior,149932,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5680353718,DALLAS_TX,tech,software,Software Engineer,senior,151616,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5700850020,DALLAS_TX,tech,software,Software Engineer,senior,143770,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5698636278,DALLAS_TX,tech,software,Software Engineer,senior,198487,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5680355869,DALLAS_TX,tech,software,Senior Software Engineer,senior,204108,on-site,0.7,"Cetera Financial Group, Inc.",32.760168,-96.765058
+5680352995,DALLAS_TX,tech,software,Software Engineer - OIPA,senior,200279,on-site,0.7,CGI,32.760168,-96.765058
+5693479089,DALLAS_TX,tech,software,Software Engineer (Python),senior,125156,on-site,0.7,Axelon Services Corporation,32.872152,-96.996093
+5700702795,DALLAS_TX,tech,software,"Software Engineer - Mainframe in Irving, Texas",senior,181854,on-site,0.7,U.S. Bank,32.8137,-96.9485
+5695218839,DALLAS_TX,tech,software,embedded real-time Software Engineer,senior,197200,on-site,0.7,"Judge Group, Inc.",32.724464,-97.00577
+5680364222,DALLAS_TX,tech,software,Software Engineer - Machine Learning - IV,senior,194055,on-site,0.7,"Judge Group, Inc.",32.962767,-96.74487
+5680358770,DALLAS_TX,tech,software,Staff Systems Software Engineer (Networking),mid,98521,on-site,0.7,Celestica International LP,32.962767,-96.74487
+5688212422,DALLAS_TX,tech,software,Lead Software Engineer (.Net Engineer),senior,109514,on-site,0.7,DTCC,32.9659,-96.9864
+5692507091,DALLAS_TX,tech,software,"Software Engineer - Angular, JavaScript",senior,148812,on-site,0.7,Axelon Services Corporation,32.872152,-96.996093
+5699639934,DALLAS_TX,tech,software,Lead Software Engineer - Mobile,mid,91177,on-site,0.7,Tixy Services LLC,32.8702,-96.9783
+5662372962,DALLAS_TX,tech,software,$250/60min Paid Market Research Study for Software Engineering Director in the Healthcare Sector,mid,78973,on-site,0.7,Ivy Exec,32.760168,-96.765058
+5663522949,DALLAS_TX,tech,software,$250/60min Paid Market Research Study for Software Engineering Director in the Finance Sector,mid,79422,on-site,0.7,Ivy Exec,32.760168,-96.765058
+5663522709,DALLAS_TX,tech,software,$250/60min Paid Market Research Study for Software Engineering Director in the IT Sector,mid,79257,on-site,0.7,Ivy Exec,32.760168,-96.765058
+5680364884,DALLAS_TX,tech,data,Senior Data Analyst,mid,100096,on-site,0.7,"Genius Road, LLC",32.760168,-96.765058
+5680356732,DALLAS_TX,tech,data,Lead Data Analyst,mid,104308,on-site,0.7,Vistra Corp,32.8137,-96.9485
+5680361259,DALLAS_TX,tech,data,Data Analyst - IT - II,mid,104984,on-site,0.7,"Judge Group, Inc.",32.8137,-96.9485
+5695209430,DALLAS_TX,tech,data,Security Analytics Analyst (Data Analyst),mid,99265,on-site,0.7,DTCC,32.9659,-96.9864
+5662186377,DALLAS_TX,tech,data,Data Analyst,mid,95000,on-site,0.7,VIMO,32.78634,-96.820503
+5595998246,DALLAS_TX,tech,data,Data Analyst,mid,76551,on-site,0.7,MPOWERHealth,32.956727,-96.839876
+5695007434,DALLAS_TX,tech,data,Data Analyst,mid,72068,on-site,0.7,Insight Global,32.812257,-96.814623
+5644493541,DALLAS_TX,tech,data,Accountant Data Analyst,entry,63440,on-site,0.7,Globalchannelmanagement,32.798895,-96.767002
+5639254233,DALLAS_TX,tech,data,AP Data Analyst,entry,63440,on-site,0.7,Globalchannelmanagement,32.798895,-96.767002
+5688089696,DALLAS_TX,tech,data,Enrty - Data Analyst,entry,32240,on-site,0.7,Signature Consultants,32.798895,-96.767002
+5606893880,DALLAS_TX,tech,data,Healthcare Data Analyst,mid,70866,on-site,0.7,Scalepex,32.798895,-96.767002
+5702682436,DALLAS_TX,tech,data,Guidewire Data Analyst,mid,70102,on-site,0.7,K-Tek Resourcing LLC,32.760168,-96.765058
+5700375922,DALLAS_TX,tech,data,Business Data Analyst,senior,111037,on-site,0.7,Rivago infotech inc,32.8137,-96.9485
+5703525813,DALLAS_TX,tech,data,Sr. Data Analyst,senior,127426,on-site,0.7,Peyton Resource Group,32.798895,-96.767002
+5673598976,DALLAS_TX,tech,data,Intern - Data Analyst,entry,44746,on-site,0.7,Safran,32.597969,-97.046975
+5683252639,DALLAS_TX,tech,data,Senior Data Analyst,senior,122748,on-site,0.7,"CTC USA, LLC",32.760168,-96.765058
+5605380015,DALLAS_TX,tech,data,Lead Data Analyst,mid,96840,on-site,0.7,Vistra,32.872152,-96.996093
+5628169123,DALLAS_TX,tech,data,Senior Data Analyst,senior,145000,on-site,0.7,Amatriot Group,32.798895,-96.767002
+5690412188,DALLAS_TX,tech,data,Data Analyst II,mid,70607,on-site,0.7,Lennar,32.872152,-96.996093
+5624547346,DALLAS_TX,tech,data,Senior Data Analyst,senior,105531,on-site,0.7,Orion180 Insurance Services,32.872152,-96.996093
+5704595074,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,72717,on-site,0.7,MSO Dallas Cardio Spec MCE,32.9302,-96.5524
+5704595124,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,80593,on-site,0.7,MSO Dallas Cardio Spec MCE,32.724464,-97.00577
+5704595059,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,entry,68391,on-site,0.7,MSO Dallas Cardio Spec MCE,32.962767,-96.74487
+5704595017,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,73031,on-site,0.7,MSO Dallas Cardio Spec MCE,32.956727,-96.839876
+5704595027,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,73921,on-site,0.7,MSO Dallas Cardio Spec MCE,32.736734,-96.55944
+5704595101,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,77655,on-site,0.7,MSO Dallas Cardio Spec MCE,32.9659,-96.9864
+5704595085,DALLAS_TX,healthcare,nurse,Cardiac Registered Nurse,mid,70644,on-site,0.7,MSO Dallas Cardio Spec MCE,32.95362,-96.88998
+5699861412,DALLAS_TX,healthcare,nurse,Home Health Registered Nurse,entry,59539,on-site,0.7,Medical City Healthcare at Home,32.8702,-96.9783
+5700379530,DALLAS_TX,healthcare,nurse,"Cath Lab Registered Nurse $1,000 Sign On",senior,120895,on-site,0.7,Methodist - Richardson ASC,32.949602,-96.708505
+5679334114,DALLAS_TX,healthcare,nurse,Certified Registered Nurse Anesthetist,senior,113966,on-site,0.7,Parkland Health and Hospital System,32.84202,-96.97188
+5675684032,DALLAS_TX,healthcare,nurse,Certified Registered Nurse Anesthetist,mid,99094,on-site,0.7,Parkland Health and Hospital System,32.828969,-96.845793
+5679334112,DALLAS_TX,healthcare,nurse,Certified Registered Nurse Anesthetist,mid,98593,on-site,0.7,Parkland Health and Hospital System,32.765308,-97.015709
+5572787625,DALLAS_TX,healthcare,nurse,Registered Nurse - Labor and Delivery,mid,89695,on-site,0.7,Parkland Health and Hospital System,32.828969,-96.845793
+5571659141,DALLAS_TX,healthcare,nurse,Senior Registered Nurse - Hospitalist A,senior,183923,on-site,0.7,Parkland Health and Hospital System,32.828969,-96.845793
+5692707874,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Labor & Delivery - $1,462 per week in Dallas, TX",mid,76024,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5692688773,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Oncology - $2,132 per week in Dallas, TX",senior,110864,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5692704575,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $1,596 per week in Dallas, TX",mid,82992,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5692717422,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Transplant - $1,656 per week in Dallas, TX",mid,86112,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5692679563,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $1,656 per week in Dallas, TX",mid,86112,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5692703379,DALLAS_TX,healthcare,nurse,"Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $1,618 per week in Dallas, TX",mid,84136,on-site,0.7,TravelNurseSource,32.786999,-96.798344
+5677716420,DALLAS_TX,finance,accountant,Accountant Senior-Accounting,entry,21541,on-site,0.7,Christus Health,32.89297,-96.94904
+5692719987,DALLAS_TX,finance,accountant,Accountant II - Accounting,entry,21006,on-site,0.7,Christus Health,32.89297,-96.94904
+5691406411,DALLAS_TX,finance,accountant,Senior Accountant,mid,99613,on-site,0.7,Lifespace Communities,32.643482,-96.704518
+5691406407,DALLAS_TX,finance,accountant,Senior Accountant,mid,80034,on-site,0.7,Lifespace Communities,32.591541,-96.780797
+5691406408,DALLAS_TX,finance,accountant,Senior Accountant,mid,98801,on-site,0.7,Lifespace Communities,32.724464,-97.00577
+5691406396,DALLAS_TX,finance,accountant,Senior Accountant,mid,91865,on-site,0.7,Lifespace Communities,32.589972,-96.943641
+5691406404,DALLAS_TX,finance,accountant,Senior Accountant,mid,99811,on-site,0.7,Lifespace Communities,32.5971,-96.8667
+5691406403,DALLAS_TX,finance,accountant,Senior Accountant,mid,86870,on-site,0.7,Lifespace Communities,32.85648,-96.60312
+5691406412,DALLAS_TX,finance,accountant,Senior Accountant,mid,83841,on-site,0.7,Lifespace Communities,32.962767,-96.74487
+5691406410,DALLAS_TX,finance,accountant,Senior Accountant,mid,89563,on-site,0.7,Lifespace Communities,32.8137,-96.9485
+5691406400,DALLAS_TX,finance,accountant,Senior Accountant,mid,93483,on-site,0.7,Lifespace Communities,32.658197,-96.913903
+5691406397,DALLAS_TX,finance,accountant,Senior Accountant,mid,96823,on-site,0.7,Lifespace Communities,32.9659,-96.9864
+5691406405,DALLAS_TX,finance,accountant,Senior Accountant,mid,82478,on-site,0.7,Lifespace Communities,32.719243,-96.612854
+5691406409,DALLAS_TX,finance,accountant,Senior Accountant,mid,86603,on-site,0.7,Lifespace Communities,32.95362,-96.88998
+5691406398,DALLAS_TX,finance,accountant,Senior Accountant,mid,90621,on-site,0.7,Lifespace Communities,32.736734,-96.55944
+5691406399,DALLAS_TX,finance,accountant,Senior Accountant,mid,89531,on-site,0.7,Lifespace Communities,32.956727,-96.839876
+5691406402,DALLAS_TX,finance,accountant,Senior Accountant,mid,93787,on-site,0.7,Lifespace Communities,32.598529,-96.679836
+5704612268,DALLAS_TX,finance,accountant,Senior Staff Accountant,mid,82558,on-site,0.7,DuraServ Corp,32.961876,-96.996093
+5704612879,DALLAS_TX,finance,accountant,Senior Staff Accountant,mid,88503,on-site,0.7,DuraServ Corp,32.961876,-96.996093
+5704608752,DALLAS_TX,finance,accountant,Senior Staff Accountant,entry,64243,on-site,0.7,Good Sportsman Marketing LLC,32.872152,-96.996093
+5589992080,RALEIGH_NC,tech,software,Software Engineer,senior,122489,on-site,0.7,Evolent,35.807915,-78.646597
+5654541920,RALEIGH_NC,tech,software,Software Engineer,senior,155051,on-site,0.7,SHI,35.807915,-78.646597
+5649224859,RALEIGH_NC,tech,software,Software Engineer,senior,179164,on-site,0.7,CACI International,35.7695,-78.7966
+5697172697,RALEIGH_NC,tech,software,Software Engineer,senior,164794,on-site,0.7,Zoom,35.807915,-78.646597
+5699593334,RALEIGH_NC,tech,software,Software Engineer,senior,149025,on-site,0.7,GovCIO,35.807915,-78.646597
+5655827929,RALEIGH_NC,tech,software,Software Engineer,senior,110725,on-site,0.7,Cardinal Health,35.807915,-78.646597
+5686666881,RALEIGH_NC,tech,software,Software Engineer Lead,senior,146363,on-site,0.7,Insight Global,35.807915,-78.646597
+5538630311,RALEIGH_NC,tech,software,Manager Software Engineering,senior,264313,on-site,0.7,RELX INC,35.807915,-78.646597
+5697769046,RALEIGH_NC,tech,software,Senior Software Engineer,senior,194699,on-site,0.7,FranklinCovey,35.807915,-78.646597
+5648115502,RALEIGH_NC,tech,software,Senior Software Engineer,senior,154148,on-site,0.7,Insight Global,35.807915,-78.646597
+5627042773,RALEIGH_NC,tech,software,Software Engineering Lead,senior,164232,on-site,0.7,RELX INC,35.807915,-78.646597
+5594853347,RALEIGH_NC,tech,software,Staff Software Engineer,senior,220906,on-site,0.7,Datavant,35.807915,-78.646597
+5695167774,RALEIGH_NC,tech,software,Head of Software Engineering,senior,287849,on-site,0.7,ManpowerGroup,35.807915,-78.646597
+5700883707,RALEIGH_NC,tech,software,Software Engineering Manager,senior,199878,on-site,0.7,Eaton Corporation,35.807915,-78.646597
+5695108093,RALEIGH_NC,tech,software,Software Engineer - AI,senior,210204,on-site,0.7,Cayuse Holdings,35.807915,-78.646597
+5696226261,RALEIGH_NC,tech,software,"Manager, Software Engineering",mid,104068,on-site,0.7,Evolent,35.807915,-78.646597
+5703182802,RALEIGH_NC,tech,software,Senior Software Engineer,senior,196133,on-site,0.7,RELX INC,35.807915,-78.646597
+4897919611,RALEIGH_NC,tech,software,Senior Software Engineer,senior,179257,on-site,0.7,ManpowerGroup,35.807915,-78.646597
+5695159842,RALEIGH_NC,tech,software,Principal Software Engineer,senior,178271,on-site,0.7,Red Hat,35.807915,-78.646597
+5664394054,RALEIGH_NC,tech,software,Principal Software Engineer,senior,147046,on-site,0.7,Ally,35.807915,-78.646597
+5700868592,RALEIGH_NC,tech,data,Data Analyst,mid,81379,on-site,0.7,Cayuse Holdings,35.807915,-78.646597
+5690325486,RALEIGH_NC,tech,data,Data Analyst,mid,79037,on-site,0.7,Lucid Software,35.807915,-78.646597
+5697172445,RALEIGH_NC,tech,data,Senior Data Analyst (Remote),mid,78732,on-site,0.7,WCG Clinical,35.807915,-78.646597
+5696252615,RALEIGH_NC,tech,data,Senior Data Analyst (Remote),mid,76189,on-site,0.7,WCG Clinical,35.7695,-78.7966
+5699604554,RALEIGH_NC,tech,data,Finance Data Analyst - REMOTE,mid,89942,on-site,0.7,Ryder System,35.807915,-78.646597
+5681830606,RALEIGH_NC,tech,data,Sr. Data Analyst- Remote,mid,85588,on-site,0.7,Sharecare,35.807915,-78.646597
+5695112300,RALEIGH_NC,tech,data,Risk Adjustment Data Analyst,mid,93805,on-site,0.7,Datavant,35.807915,-78.646597
+5664520825,RALEIGH_NC,tech,data,Project Portfolio Data Analyst Intern,mid,73011,on-site,0.7,Ensono,35.807915,-78.646597
+5697276111,RALEIGH_NC,tech,data,Data Analyst,mid,79726,on-site,0.7,Adult Correction,35.760487,-78.64772
+5704128348,RALEIGH_NC,tech,data,Data Analyst,entry,54310,on-site,0.7,"Stride, Inc.",35.77443,-78.631362
+5690434482,RALEIGH_NC,tech,data,Data Analyst,entry,68800,on-site,0.7,Lucid Software,35.77443,-78.631362
+5690952978,RALEIGH_NC,tech,data,Manufacturing Data Analyst,mid,100435,on-site,0.7,Ascentt,35.773993,-78.63276
+5690423071,RALEIGH_NC,tech,data,Reporting & Data Analyst,mid,85585,on-site,0.7,Royal Bank of Canada,35.77443,-78.631362
+5689419150,RALEIGH_NC,tech,data,Data Privacy Analyst,mid,92109,on-site,0.7,RELX INC,35.807915,-78.646597
+5599724503,RALEIGH_NC,tech,data,Payor Data Analyst- Remote,mid,79405,on-site,0.7,Sharecare,35.807915,-78.646597
+5695172174,RALEIGH_NC,tech,data,Business Data Analyst II - CCAR Y14 Reporting & Data Solutions,senior,176744,on-site,0.7,Truist,35.807915,-78.646597
+5693981949,RALEIGH_NC,tech,data,Cisco Data Analyst Level 1,senior,115506,on-site,0.7,Cayuse Holdings,35.807915,-78.646597
+5589990253,RALEIGH_NC,tech,data,Content Data Validation Analyst,mid,94378,on-site,0.7,Dodge Construction Network,35.807915,-78.646597
+5545045349,RALEIGH_NC,tech,data,Senior Data Quality Analyst,mid,102667,on-site,0.7,Truist,35.807915,-78.646597
+5664595692,RALEIGH_NC,tech,data,Regulatory Data Assessment Analyst - Conformance,senior,117915,on-site,0.7,Truist,35.807915,-78.646597
+5692704799,RALEIGH_NC,healthcare,nurse,"Travel Nurse RN - Obstetrics/Gynecology - $1,971 per week in Cary, NC",mid,102492,on-site,0.7,TravelNurseSource,35.7695,-78.7966
+5701860454,RALEIGH_NC,healthcare,nurse,"Travel Nurse RN - Labor & Delivery - $1,978 per week in Cary, NC",mid,102856,on-site,0.7,TravelNurseSource,35.7695,-78.7966
+5700380200,RALEIGH_NC,healthcare,nurse,"Corrections Registered Nurse - $2,144 per week",senior,111488,on-site,0.7,Supplemental Health Care,35.773993,-78.63276
+5687658237,RALEIGH_NC,healthcare,nurse,"Travel CVOR Registered Nurse - $2,655 per week",senior,138060,on-site,0.7,LanceSoft,35.773993,-78.63276
+5693860501,RALEIGH_NC,healthcare,nurse,Staff - Oncology Registered Nurse - $38-58 per hour,mid,99840,on-site,0.7,Core Medical-Perm,35.773993,-78.63276
+5676354471,RALEIGH_NC,healthcare,nurse,"Travel MedSurg Registered Nurse - $1,412 per week",mid,73424,on-site,0.7,Nightingale Nurses,35.773993,-78.63276
+5702647247,RALEIGH_NC,healthcare,nurse,"Travel Outpatient Registered Nurse - $2,005 per week",mid,104260,on-site,0.7,PRIDE Health,35.773993,-78.63276
+5692716113,RALEIGH_NC,healthcare,nurse,"Travel Nurse RN - Medical-Surgical - $1,455 to $1,604 per week in Raleigh, NC",mid,79534,on-site,0.7,TravelNurseSource,35.807915,-78.646597
+5692704696,RALEIGH_NC,healthcare,nurse,"Travel Nurse RN - Psych - $1,720 to $1,873 per week in Raleigh, NC",mid,93418,on-site,0.7,TravelNurseSource,35.807915,-78.646597
+5703051481,RALEIGH_NC,healthcare,nurse,"Travel Emergency Department Registered Nurse - $2,263 per week",senior,117676,on-site,0.7,"Amergis Healthcare Staffing, Inc.",35.773993,-78.63276
+5695818105,RALEIGH_NC,healthcare,nurse,Staff - Registered Nurse (RN) - Hospice - $70K-90K per year,mid,80000,on-site,0.7,Gentiva,35.773993,-78.63276
+5702168231,RALEIGH_NC,healthcare,nurse,"Travel Outpatient Clinic Registered Nurse - $1,893 per week",mid,98436,on-site,0.7,Anders Group,35.773993,-78.63276
+5634991856,RALEIGH_NC,healthcare,nurse,Staff - Registered Nurse (RN) - CVICU - $30-55 per hour,mid,88400,on-site,0.7,Core Medical-Perm,35.773993,-78.63276
+5695817092,RALEIGH_NC,healthcare,nurse,Staff - Registered Nurse (RN) - Hospice - $70K-90K per year,mid,80000,on-site,0.7,Gentiva,35.773993,-78.63276
+5701931515,RALEIGH_NC,healthcare,nurse,"Travel Outpatient Clinic Registered Nurse - $2,074 per week",senior,107848,on-site,0.7,Access Healthcare,35.773993,-78.63276
+5684869233,RALEIGH_NC,healthcare,nurse,Per Diem / PRN Home Health Registered Nurse - $65 per hour,senior,135200,on-site,0.7,ConnectRN Per Diem,35.773993,-78.63276
+5515381232,RALEIGH_NC,healthcare,nurse,Staff - Registered Nurse (RN) - Acute Care - $30-49 per hour,mid,82160,on-site,0.7,Core Medical-Perm,35.773993,-78.63276
+5515379385,RALEIGH_NC,healthcare,nurse,Staff - Registered Nurse (RN) - Labor and Delivery - $33-47 per hour,mid,83200,on-site,0.7,Core Medical-Perm,35.773993,-78.63276
+5700717042,RALEIGH_NC,healthcare,nurse,Local Contract Operating Room Registered Nurse - $48-56 per hour,senior,108160,on-site,0.7,Medical Solutions,35.773993,-78.63276
+5687629531,RALEIGH_NC,healthcare,nurse,Local Contract Labor and Delivery Registered Nurse - $41-48 per hour,mid,92560,on-site,0.7,Medical Solutions,35.72695,-78.773527
+5704798012,RALEIGH_NC,finance,accountant,Accountant II,entry,61931,on-site,0.7,NC State University,35.77443,-78.631362
+5664520567,RALEIGH_NC,finance,accountant,Senior Accountant,entry,61932,on-site,0.7,EMCOR Group,35.807915,-78.646597
+5648115725,RALEIGH_NC,finance,accountant,Payroll Accountant,mid,70575,on-site,0.7,Kimley-Horn,35.807915,-78.646597
+5702087743,RALEIGH_NC,finance,accountant,Sr. Accountant,mid,82293,on-site,0.7,Robert Half,35.807915,-78.646597
+5674777951,RALEIGH_NC,finance,accountant,Project Accountant,entry,68157,on-site,0.7,Robert Half,35.664395,-78.594385
+5695112338,RALEIGH_NC,finance,accountant,Senior Accountant,mid,101292,on-site,0.7,Datavant,35.807915,-78.646597
+5697123922,RALEIGH_NC,finance,accountant,Senior Accountant,mid,103629,on-site,0.7,"CRC Insurance Services, Inc.",35.807915,-78.646597
+5623633721,RALEIGH_NC,finance,accountant,Senior Revenue Accountant,senior,114494,on-site,0.7,Norstella,35.807915,-78.646597
+5703181018,RALEIGH_NC,tech,accountant,Principal Technical Accountant,senior,162650,on-site,0.7,Oracle,35.807915,-78.646597
+5673696025,RALEIGH_NC,finance,accountant,Intermediate Billing Accountant,entry,67779,on-site,0.7,CDM Smith,35.807915,-78.646597
+5695112299,RALEIGH_NC,finance,accountant,Cash Staff Accountant,mid,89562,on-site,0.7,Datavant,35.807915,-78.646597
+5664595475,RALEIGH_NC,finance,accountant,Accountant (Federal Government Contracting),mid,87938,on-site,0.7,St. George Tanaq Corporation,35.807915,-78.646597
+5688175158,RALEIGH_NC,finance,accountant,Accountant,mid,85325,on-site,0.7,Genworth Financial,35.77443,-78.631362
+5696408988,RALEIGH_NC,finance,accountant,Accountant,entry,58544,on-site,0.7,CaptiveAire,35.77443,-78.631362
+5401817784,RALEIGH_NC,finance,accountant,Accountant,mid,98887,on-site,0.7,Taleo Social Sourcing,35.77443,-78.631362
+5690959580,RALEIGH_NC,finance,accountant,Senior Accountant - SEC Financial Reporting,mid,71404,on-site,0.7,The Hertz Corporation,35.807915,-78.646597
+5688798794,RALEIGH_NC,finance,accountant,Staff Accountant,mid,79355,on-site,0.7,AIR Control Concepts,35.77443,-78.631362
+5673631601,RALEIGH_NC,finance,accountant,Senior Accountant,mid,97110,on-site,0.7,AIR Control Concepts,35.77443,-78.631362
+5684587276,RALEIGH_NC,finance,accountant,Junior Accountant,entry,40000,on-site,0.7,FOURESS SYNERGY,35.794803,-78.806489
+5699622729,RALEIGH_NC,finance,accountant,Senior Accountant,entry,69735,on-site,0.7,WGNSTAR,35.711264,-78.614171
